@@ -1,0 +1,187 @@
+Country	Number	ASR/100000
+World	18094716	190
+Denmark	39996	334.9
+Ireland	27067	326.6
+Belgium	74162	322.8
+Hungary	62399	321.6
+France	422828	320.1
+Netherlands	114601	315.1
+Australia	141182	312.3
+Norway	32655	312.3
+France New Caledonia	1147	306.4
+Slovenia	13572	300.2
+US	1756921	297.3
+United Kingdom	409228	296.1
+Latvia	12051	296.1
+New Zealand	25663	295.3
+Serbia	47342	291.6
+Slovakia	29480	290.4
+Lithuania	16561	287.5
+Canada	212719	287.4
+Croatia	25001	284.1
+Japan	1017282	282.9
+Germany	538140	281.9
+Czechia	63365	281.2
+Italy	382670	278.3
+Estonia	7706	274.2
+Sweden	56889	271
+Switzerland	47711	268.2
+Spain	260455	264.6
+Luxembourg	2957	264.6
+Finland	33607	260.9
+Montenegro	2806	260.6
+Poland	196440	260.4
+Greece	62577	260.4
+Uruguay	14845	257.8
+Romania	95276	255.9
+Portugal	57742	255
+Iceland	1577	252
+France Guadeloupe	2043	249.6
+Cyprus	4989	248
+Belarus	40531	246.9
+Austria	44294	241.6
+French Polynesia	861	240.4
+South Korea	226918	239.9
+France Martinique	2069	239.6
+Israel	28499	239.4
+Bulgaria	34741	238.5
+Malta	2392	238
+Samoa	374	236.4
+Singapore	23260	229.8
+Russian Federation	576535	229.2
+Turkey	227310	225.6
+Bosnia and Herzegovina	14249	221.6
+Brunei	971	219.5
+Barbados	1135	216
+North Macedonia	7392	215.1
+Mongolia	5675	214
+Argentina	126818	212.4
+France La Réunion	2962	212.4
+Moldova	13242	211.2
+Puerto Rico	12459	209.7
+Ukraine	157275	206.3
+French Guiana	536	205.6
+China	4546400	203.8
+Brazil	556995	203.8
+Cuba	43263	202.1
+Armenia	9114	200.1
+Jamaica	7127	196.9
+Zimbabwe	15638	194.7
+Trinidad and Tobago	3908	193.4
+South Africa	100464	193.2
+Georgia	12751	191.3
+Papua New Guinea	11387	186.2
+Namibia	3155	186.1
+Paraguay	12580	185.9
+Bahamas	858	185
+Cabo Verde	822	178.5
+Guam	417	178.1
+Colombia	109900	177.5
+Costa Rica	12068	175.2
+Saint Lucia	449	174.3
+Chile	51602	173.5
+Venezuela	54513	170.1
+Peru	66669	169.4
+Dominican Republic	19457	169.4
+Fiji	1479	168.7
+Suriname	1040	165
+Laos	9025	163.7
+Thailand	187677	161.7
+Philippines	152803	161
+North Korea	57360	160.7
+Kazakhstan	33931	160.3
+Vietnam	181333	158.6
+Egypt	133012	157.5
+Gaza Strip and West Bank	4727	156.9
+Jordan	11407	153.2
+Lebanon	11268	152.7
+Mauritius	2992	152.2
+Uganda	33600	152
+Malawi	17604	151.3
+Zambia	13597	150.8
+Ecuador	28235	149.7
+Iran	127801	148.7
+Panama	7511	148.2
+Morocco	58963	147.3
+Kenya	41469	147.1
+Syria	20618	146.8
+Malaysia	48160	142.5
+Albania	6695	142.2
+Guyana	1146	141.2
+Indonesia	389768	138.4
+Azerbaijan	15943	138.4
+Mali	13900	137.5
+Haiti	12308	136.9
+Mexico	186746	134.6
+Myanmar	72907	133.6
+Iraq	33510	133.3
+Cambodia	18120	133.3
+Burundi	7807	133.3
+Nicaragua	7822	132.9
+Algeria	57139	132.5
+Bolivia	15167	132.5
+Honduras	10511	132.2
+Tanzania	39727	131
+Mozambique	24631	131
+Tunisia	19054	131
+Libya	7600	131
+Solomon Islands	604	130
+El Salvador	9431	127.3
+Kyrgyzstan	6877	126.5
+São Tomé and Príncipe	151	126.4
+Cameroon	20438	125.8
+Angola	19580	125.1
+Eswatini	956	123.4
+Turkmenistan	6628	123.2
+Maldives	492	122.3
+Côte d’Ivoire	17056	121.7
+Madagascar	20088	120.8
+Guatemala	16214	120
+Liberia	3484	117.1
+Senegal	11063	116.9
+Somalia	9878	115.2
+Kuwait	3824	115.1
+Ghana	23738	114.6
+Guinea	7681	113.8
+Gabon	1722	113.8
+Rwanda	8665	111.7
+Bahrain	1205	111.5
+Belize	363	111.2
+Burkina Faso	11749	109.4
+Equatorial Guinea	911	108.3
+Nigeria	121915	108.1
+Vanuatu	229	107.8
+Pakistan	174036	107.6
+Togo	4990	107.6
+Comoros	587	107.6
+Uzbekistan	31703	106.9
+Qatar	1472	106.6
+Mauritania	3005	106.1
+Lesotho	1824	106
+Afghanistan	22249	105.6
+Bangladesh	155697	105.5
+United Arab Emirates	4732	104.8
+Botswana	1931	104.8
+Guinea-Bissau	1099	104.8
+Sri Lanka	29179	104
+Ethiopia	74957	103.4
+Oman	3664	102.1
+Congo Democratic Republic of	48337	101.9
+Chad	8401	100.4
+Sierra Leone	4596	99.8
+Central African Republic	2641	99.2
+Eritrea	2344	98.1
+India	1314030	96.4
+Saudi Arabia	27578	95.2
+Yemen	16205	95.2
+Benin	6602	94.1
+Sudan	26837	93.8
+South Sudan	6180	92.8
+Djibouti	746	88.7
+Timor-Leste	805	88.6
+Tajikistan	5628	87.9
+Congo Republic of	2471	84.3
+Bhutan	568	81.3
+Nepal	20280	80
+The Gambia	1032	79.3
+Niger	9477	76.4

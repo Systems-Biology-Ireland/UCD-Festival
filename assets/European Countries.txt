@@ -1,0 +1,45 @@
+Country
+Russian Federation
+Germany
+United Kingdom
+France
+Italy
+Spain
+Ukraine
+Poland
+Romania
+Netherlands
+Belgium
+Czechia
+Greece
+Portugal
+Sweden
+Hungary
+Belarus
+Austria
+Serbia
+Switzerland
+Bulgaria
+Denmark
+Finland
+Slovakia
+Norway
+Ireland
+Croatia
+Moldova
+Bosnia and Herzegovina
+Albania
+Lithuania
+North Macedonia
+Slovenia
+Latvia
+Estonia
+Montenegro
+Luxembourg
+Malta
+Iceland
+Andorra
+Monaco
+Liechtenstein
+San Marino
+Holy See
