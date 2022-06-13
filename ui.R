@@ -31,7 +31,7 @@ navbarPage("Systems Biology Ireland!",
                     sidebarLayout(
                       sidebarPanel(
                         radioButtons( "cancer_type","Mutations in Common Cancer Types",
-                                      c("Bowel Cancer" = "brc", "Bowel Cancer" = "bc",
+                                      c("Breast Cancer" = "brc", "Bowel Cancer" = "bc",
                                         "Lung Cancer" ="lc", 
                                         "Prostate Cancer" = "pc", "Melanoma (Type of Skin Cancer)" ="sc" )
                         )
